@@ -1,10 +1,9 @@
 {
   "name": "eslint-config-avilatek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An eslint config file for Avila Tek employees",
   "main": "index.js",
   "scripts": {
-    "test": "none",
     "lint": "eslint .",
     "lint:fix": "eslint --fix"
   },

@@ -1,6 +1,6 @@
 # Eslint Config Avila Tek
 
-Este breve paquete es una configuración de eslint para los proyectos de [Avila Tek](https://avilatek.dev) esta inspirado en la configuración de [wesbos](https://github.com/wesbos/eslint-config-wesbos) la version de [TypeScript]() puedes encontrarla [aquí]().
+Este breve paquete es una configuración de eslint para los proyectos de [Avila Tek](https://avilatek.dev) esta inspirado en la configuración de [wesbos](https://github.com/wesbos/eslint-config-wesbos) la version de [TypeScript](https://github.com/Avila-Tek/eslint-config-avilatek-typescript) puedes encontrarla [aquí](https://github.com/Avila-Tek/eslint-config-avilatek-typescript).
 
 ## Install
 
