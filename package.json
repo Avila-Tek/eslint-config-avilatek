@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-avilatek",
-  "version": "1.0.1",
-  "description": "An eslint config file for Avila Tek employees",
+  "version": "1.1.0",
+  "description": "A simple yet powerful eslint config, mostly used by Avila Tek employees, but open sourced",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -13,7 +13,9 @@
   },
   "keywords": [
     "eslint",
-    "avila tek",
+    "config",
+    "code style",
+    "Avila Tek",
     "prettier"
   ],
   "author": "Avila Tek <info@avilatek.dev>",
@@ -24,28 +26,28 @@
   "homepage": "https://github.com/Avila-Tek/eslint-config-avilatek#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.1.0",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-html": "^6.0.2",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "^4.0.4",
+    "eslint-plugin-react": "^7.20.5",
+    "eslint-plugin-react-hooks": "^4.0.8",
     "prettier": "^2.0.5"
   },
   "peerDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.1.0",
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-html": "^6.0.2",
-    "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.1.4",
-    "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "^4.0.4",
+    "eslint-plugin-react": "^7.20.5",
+    "eslint-plugin-react-hooks": "^4.0.8",
     "prettier": "^2.0.5"
   }
 }
