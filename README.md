@@ -1,6 +1,8 @@
 # Eslint Config Avila Tek
 
-Este breve paquete es una configuración de eslint para los proyectos de [Avila Tek](https://avilatek.dev) esta inspirado en la configuración de [wesbos](https://github.com/wesbos/eslint-config-wesbos) la version de [TypeScript](https://github.com/Avila-Tek/eslint-config-avilatek-typescript) puedes encontrarla [aquí](https://github.com/Avila-Tek/eslint-config-avilatek-typescript).
+![Avila Tek Logo](https://avilatek.dev/assets/images/logo_white.png)
+
+Este repositorio contiene la configuración de eslint que se utiliza en [Avila Tek](https://avilatek.dev) tiene una fuerte inspiración en la configuración de [wesbos](https://github.com/wesbos/eslint-config-wesbos) la version de [TypeScript](https://github.com/Avila-Tek/eslint-config-avilatek-typescript) puedes encontrarla [aquí](https://github.com/Avila-Tek/eslint-config-avilatek-typescript).
 
 ## Install
 
@@ -39,3 +41,11 @@ Luego deberás abrir el archivo de `settings.json` (preferiblemente el global) y
   "prettier.disableLanguages": ["javascript", "javascriptreact"]
 }
 ```
+
+## Licencia
+
+Este proyecto, cuenta con la Licencia MIT.
+
+---
+
+Elaborado por [@zoomelectrico](https://github.com/zoomelectrico)
