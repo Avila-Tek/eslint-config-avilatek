@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['airbnb', 'prettier'],
+  extends: ['eslint:recommended', 'airbnb', 'prettier'],
   plugins: ['html', 'prettier', 'react-hooks'],
   parser: '@babel/eslint-parser',
   parserOptions: {
@@ -18,8 +18,6 @@ module.exports = {
   rules: {
     'no-debugger': 'off',
     'no-alert': 'off',
-    'no-await-in-loop': 'off',
-    'react/prop-types': 'off',
     'global-require': 'off',
     'no-return-assign': ['error', 'except-parens'],
     'no-restricted-syntax': [
@@ -77,6 +75,7 @@ module.exports = {
     import: 'off',
     'import/prefer-default-export': 'off',
     'import/extensions': 'off',
+    'react/prop-types': 'off',
     'react/display-name': 'warn',
     'react/no-array-index-key': 'off',
     'react/react-in-jsx-scope': 'off',
